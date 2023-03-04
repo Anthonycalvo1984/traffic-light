@@ -1,0 +1,35 @@
+
+
+.red-light{
+    background: red;
+    width: 50px;
+    margin-left: 700px;
+    border-style: solid;
+
+}
+
+.yellow-light{
+    background: yellow;
+    width: 50px;
+    margin-left: 700px;
+    border-style: solid;
+}
+
+.green-light{
+    background: green;
+    width: 50px;
+    margin-left: 700px;
+    border-style: solid;
+}
+
+.red-light-active{
+ box-shadow: 45px 45px 45px 25px rgb(255,133,133)
+}
+
+.yellow-light-active{
+    box-shadow: 45px 45px 45px 25px rgb(255, 255, 133)
+   }
+
+.green-light-active{
+    box-shadow: 45px 45px 45px 25px rgb(13, 181, 21)
+   }
